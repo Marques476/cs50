@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCsOe_DpgLW1O7Y9_y7ptXjZw7gk5CL_X8")
+client = genai.Client(api_key="////")
 
 user_prompt = input("Prompt: ")
 system_prompt = "Limit your answer to one sentence. Pretend you are a cat"
